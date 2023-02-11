@@ -24,4 +24,4 @@ const calculate = (number1 , number2 , operation) => {
        return result
 }
 
-console.log(calculate(2,3,"*"))
+
